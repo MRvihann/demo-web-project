@@ -1,0 +1,13 @@
+style3.css
+body{
+    background-color:rgb(236, 153, 28);
+}
+.container{
+    border : 5px solid red;
+
+}
+.row {border :5px solid blue; padding:1px}
+.col, .col-12, .col-8, .col-4, .col-md-8, .col-md-4, .col-6 , .col-md-6 , .col-md-2, .col-2, .col-md-4, .col-md-6 , .col-md-8 {
+    border : 5px solid yellow;
+}  
+#tab ul id {display: inline; padding: 20px; list-style-type: none;}
